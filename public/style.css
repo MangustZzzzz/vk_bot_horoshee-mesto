@@ -17,6 +17,7 @@ html {
 }
 h1 {
   font-size: 30px;
+  margin-bottom: 15px;
 }
 table {
   border-collapse: collapse;
@@ -26,7 +27,6 @@ table {
 td {
   position: relative;
   box-sizing: border-box;
-
   width: 10%;
   height: 10%;
   border: solid var(--light) 1px;
@@ -74,5 +74,15 @@ td {
   html,
   body {
     display: flex;
+  }
+  h1 {
+    font-size: 18px;
+  }
+  table {
+    width: 700px;
+    height: 700px;
+  }
+  td {
+    font-size: 12px;
   }
 }
