@@ -1,9 +1,3 @@
-Имя: Серафим;
-Фамилия: Кочегура;
-Фото: https://sun3-18.userapi.com/s/v1/ig2/plcNQEWShrWYJQAsdOFC1WjVDjmVOyym-wcDdeYNfbXXxsW0UUQX-TzdbSbgb6XZQ_IpGqQHM2vBSnWFUQMrvIqf.jpg?size=200x200&quality=95&crop=560,291,914,914&ava=1;
-Ссылка: https://vk.com/mangustzzzzz;
-Ответ: 6;
-
 Имя: Никита;
 Фамилия: Гончаров;
 Фото: https://sun3-18.userapi.com/s/v1/ig2/SpX9SH9gs06WdL8m396CxfNn4Ts9Eli1WUrrsqeVR5iaRIIraMhB8ayaOhOwjwnV0w3X2HhcU7uFO1wkWjmXTapH.jpg?size=200x200&quality=96&crop=72,72,576,576&ava=1;
