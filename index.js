@@ -14,7 +14,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000;
 
 const communityToken = "vk1.a.qYx78tkRDVIxTOsiCVXmMSL6uzumB13FVDAkX1NFgEcLV6QLmz4CnPHv1vZnj6E_7em-Yvs8ty-TMpdIpVtuMGpLEjPjyqM2EvHUgjNQvE1qFA1aTNPAD4YSPl97kiS3Gh5kiWC1VhKVygobSCYw8jMnfiEMv6x75bQm_Dzyw5-JNTyFOPZWTAlq2JHScfXU6nsth-gXVoObAKKN7n0MGw";
 const userToken = "vk1.a.rH7L7t96ZGOqE6Pxv_BpIGqzTqw0tkA8e0-AlijD1tpi45Zj3NRTHA05hw1Oe_2s4fb6SbDK6cm3lqvttvofuyP3TRbDwTtkP1Bjrr3q-uG2cUVkTzzPTRwwlWo0VxYpg-qmzp_OUMJXENC3EbJ6LXXfd8dZk5LFbTTIkbkpvp5tCMYW65GIlO7T0kpMEPffDOftFvHUupuRkT8D5Dxmng";
